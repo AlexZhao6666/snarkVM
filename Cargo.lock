@@ -3243,6 +3243,7 @@ dependencies = [
  "lazy_static",
  "paste",
  "rand",
+ "reqwest",
  "serde_json",
  "sha2",
  "snarkvm-algorithms",
