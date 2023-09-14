@@ -2541,7 +2541,6 @@ dependencies = [
  "snarkvm-utilities",
  "thiserror",
  "wasm-bindgen-futures",
- "wasm-bindgen-test",
 ]
 
 [[package]]
@@ -3314,7 +3313,6 @@ dependencies = [
 name = "snarkvm-synthesizer-program"
 version = "0.14.6"
 dependencies = [
- "async-trait",
  "bincode",
  "indexmap 2.0.0",
  "paste",
